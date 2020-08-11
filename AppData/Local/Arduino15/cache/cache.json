@@ -1,0 +1,55 @@
+{
+  "files" : [ {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.gz",
+    "localPath" : "C:\\Users\\김상혁\\AppData\\Local\\Arduino15\\cache\\downloads.arduino.cc\\libraries\\library_index.json.gz",
+    "eTag" : "1adc20017b981b751290a4c84ed04a77",
+    "md5" : "MD5:1adc20017b981b751290a4c84ed04a77",
+    "createdAt" : "2019-11-10T10:15:44.98",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "noCache" : false,
+      "mustRevalidate" : false,
+      "noStore" : false
+    },
+    "expires" : "2019-11-10T14:15:44.980"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json.sig",
+    "localPath" : "C:\\Users\\김상혁\\AppData\\Local\\Arduino15\\cache\\downloads.arduino.cc\\packages\\package_index.json.sig",
+    "eTag" : "b40cc4f3855871da0d473007a1a80b84",
+    "md5" : "MD5:b40cc4f3855871da0d473007a1a80b84",
+    "createdAt" : "2019-11-10T10:15:44.583",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "noCache" : false,
+      "mustRevalidate" : false,
+      "noStore" : false
+    },
+    "expires" : "2019-11-10T11:15:44.583"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/libraries/library_index.json.sig",
+    "localPath" : "C:\\Users\\김상혁\\AppData\\Local\\Arduino15\\cache\\downloads.arduino.cc\\libraries\\library_index.json.sig",
+    "eTag" : "01ff50082c3c8663bdc2616e6329e541",
+    "md5" : "MD5:01ff50082c3c8663bdc2616e6329e541",
+    "createdAt" : "2019-11-10T10:15:45.156",
+    "cacheControl" : {
+      "maxAge" : 14400,
+      "noCache" : false,
+      "mustRevalidate" : false,
+      "noStore" : false
+    },
+    "expires" : "2019-11-10T14:15:45.156"
+  }, {
+    "remoteURL" : "https://downloads.arduino.cc/packages/package_index.json",
+    "localPath" : "C:\\Users\\김상혁\\AppData\\Local\\Arduino15\\cache\\downloads.arduino.cc\\packages\\package_index.json",
+    "eTag" : "669db8ca08188a51f9b7d2fe0b74c3d0",
+    "md5" : "MD5:669db8ca08188a51f9b7d2fe0b74c3d0",
+    "createdAt" : "2019-11-10T10:15:44.427",
+    "cacheControl" : {
+      "maxAge" : 3600,
+      "noCache" : false,
+      "mustRevalidate" : false,
+      "noStore" : false
+    },
+    "expires" : "2019-11-10T11:15:44.427"
+  } ]
+}

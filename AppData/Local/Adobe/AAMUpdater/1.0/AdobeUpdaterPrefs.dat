@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Preferences>
+<StartupLogFile>C:\Users\김상혁\AppData\Local\Adobe\AAMUpdater\1.0\aamul.log</StartupLogFile>
+<LogLevel>2</LogLevel>
+<LogFile>C:\Users\김상혁\AppData\Local\Adobe\AAMUpdater\1.0\aamu.log</LogFile>
+<WebFeedEtag></WebFeedEtag>
+<WebFeedSize>0</WebFeedSize>
+<WebFeedSeqNo>0</WebFeedSeqNo>
+<LastDateCheck></LastDateCheck>
+<CSUVersion>9.0</CSUVersion>
+<ChannelsEnabled>
+<MapPrefEntry MapPrefKey="AdobeApplicationManager-1.0">1</MapPrefEntry>
+</ChannelsEnabled>
+<CCMChannels></CCMChannels>
+</Preferences>
