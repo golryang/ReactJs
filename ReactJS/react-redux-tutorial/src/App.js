@@ -8,10 +8,8 @@ import TodosContainer from './containers/TodosContainer';
 // 커밋
 const App = () => {
   return (
-    <div>
-      <div className="TodoTemplete">
-        <TodosContainer className="TodoItem" />
-      </div>
+    <div className="TodoTemplate">
+      <TodosContainer />
     </div>
   );
 };
